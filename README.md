@@ -1,3 +1,4 @@
 # first-project-S-E-F07
 
-https://github.com/mdjahangirhussen/first-project-S-E-F07.gitgit
+
+https://mdjahangirhussen.github.io/first-project-S-E-F07/
