@@ -10,6 +10,7 @@ $(document).ready(function () {
     ==============================================
     *========== TABLE OF CONTENTS ================
 
+        0.0 Current Year 
         0.1 Preloader Js
     	0.2 Header bg-color change Js
     	0.3 Navbar-logo change Js
@@ -21,6 +22,10 @@ $(document).ready(function () {
         0.9 scrolltop js
 
     ========================================*/
+    
+    //-------- 0.0 Current Year  --------
+      document.getElementById("year").textContent = new Date().getFullYear();
+    
     //-------- 0.1 preloader Js --------
 
     $(window).on("load", function () {
